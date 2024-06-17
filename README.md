@@ -1,6 +1,6 @@
 # <p align="center"><img src=https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif width = 70>  Bienvenido al Github de AndreuSG<img src=https://media.giphy.com/media/MAcTx2rdS1qTprIScT/giphy.gif width = 70></p> 
 
-![Banner](Banner-Andreu-Github.png)
+![Banner](./andreuBanner.png)
 
 ## Sobre mí
 Hola, mi nombre es Andreu, tengo 24 años y soy un apasionado administrador de sistemas con un gran interés en el desarrollo y la programación, la ciberseguridad, y la combinación de ambas áreas que es DevOps. Actualmente, estoy perfeccionando mis habilidades en estos campos, formándome constantemente para estar al día con las últimas tecnologías y prácticas.
