@@ -17,11 +17,6 @@ Gestión y mantenimiento de infraestructuras TI utilizando diversas tecnologías
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![DNS](https://img.shields.io/badge/DNS-0298D0?style=flat-square&logo=google&logoColor=white) | ![DHCP](https://img.shields.io/badge/DHCP-00457C?style=flat-square&logo=cisco&logoColor=white) |
 | ![Dovecot](https://img.shields.io/badge/Dovecot-003F87?style=flat-square&logo=dovecot&logoColor=white) | ![Postfix](https://img.shields.io/badge/Postfix-0081CB?style=flat-square&logo=postfix&logoColor=white) | ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) | ![Apache](https://img.shields.io/badge/Apache-CA2136?style=flat-square&logo=apache&logoColor=white) |
-|  
-
-
-
- 
 
 ### Desarrollo Web
 Creación y mantenimiento de aplicaciones web utilizando las siguientes tecnologías:
@@ -32,13 +27,11 @@ Creación y mantenimiento de aplicaciones web utilizando las siguientes tecnolog
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=white) |
 
-
 ### Ciberseguridad
 Protección de sistemas y datos contra amenazas y vulnerabilidades:
 
 | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-236B8E?style=flat-square&logo=metasploit&logoColor=white) |
 | :---: | :---: | :---: |
-
 
 ### DevOps
 Integración de desarrollo y operaciones para mejorar la eficiencia y calidad en la entrega de software:
