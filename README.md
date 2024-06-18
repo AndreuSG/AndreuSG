@@ -98,7 +98,9 @@ Integración de desarrollo y operaciones para mejorar la eficiencia y calidad en
 
 <br>
 
-<p>Exploració i aplicació pràctica d'Ansible com a eina d'automatització. El treball inclou una visió general de les característiques clau d'Ansible, així com la descripció detallada de diversos casos d'ús pràctics. Aquests casos van complicant-se a mesura que avança el projecte fins que finalment deixem un enllaç al nostre projecte final. Per garantir la seguretat i eficiència en la gestió de les màquines, totes les màquines del projecte han estat configurades per permetre l'accés només mitjançant clau pública. Aquesta tècnica, coneguda com a hardening (enduriment), millora la seguretat del sistema en limitar les formes d'accés i reduir les vulnerabilitats. En aquest projecte, l'Ansible Tower és l'única màquina que ha distribuït la seva clau pública a tots els nodes gestionats, assegurant així un control centralitzat i segur.</p>
+<p>
+  <br>
+  Exploració i aplicació pràctica d'Ansible com a eina d'automatització. El treball inclou una visió general de les característiques clau d'Ansible, així com la descripció detallada de diversos casos d'ús pràctics. Aquests casos van complicant-se a mesura que avança el projecte fins que finalment deixem un enllaç al nostre projecte final. Per garantir la seguretat i eficiència en la gestió de les màquines, totes les màquines del projecte han estat configurades per permetre l'accés només mitjançant clau pública. Aquesta tècnica, coneguda com a hardening (enduriment), millora la seguretat del sistema en limitar les formes d'accés i reduir les vulnerabilitats. En aquest projecte, l'Ansible Tower és l'única màquina que ha distribuït la seva clau pública a tots els nodes gestionats, assegurant així un control centralitzat i segur.</p>
 </div>
                                                                                       
 </td>       
@@ -106,7 +108,7 @@ Integración de desarrollo y operaciones para mejorar la eficiencia y calidad en
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="./.Images/portadaATAK.png" width="400"></a>
+<a href="https://github.com/AndreuSG/DevOps-Projects/tree/main/--AWS-TERRAFORM-ANSIBLE-KUBERNETES--" target="_blank"><img src="./.Images/portadaATAK.png" width="400"></a>
 
 <br>
 
