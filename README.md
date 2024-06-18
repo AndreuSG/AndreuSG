@@ -110,6 +110,8 @@ Integración de desarrollo y operaciones para mejorar la eficiencia y calidad en
 
 <br>
 
+<br>
+
 <p>
     Automatitzar el desplegament d'infraestructura: Utilitzar Terraform per definir i desplegar la infraestructura necessària a AWS de manera automatitzada i repetible. <br>
     Configuració i gestió d'aplicacions: Utilitzar Ansible per automatitzar la configuració dels servidors i el desplegament de les aplicacions, assegurant una configuració consistent i una gestió eficient.
