@@ -106,7 +106,7 @@ Integración de desarrollo y operaciones para mejorar la eficiencia y calidad en
 </td>       
 
 <td width="50%">
-<h3 align="center">Terraform-AWS-Ansible-Kubernetes/h3>
+<h3 align="center">Terraform-AWS-Ansible-Kubernetes </h3>
 <div align="center">
 <a href="https://github.com/AndreuSG/DevOps-Projects/tree/main/--AWS-TERRAFORM-ANSIBLE-KUBERNETES--" target="_blank"><img src="./.Images/portadaATAK.png" width="400"></a>
 
