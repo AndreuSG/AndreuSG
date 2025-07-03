@@ -1,6 +1,4 @@
-# <p align="center">🔥💻Bienvenido al Github de AndreuSG💻🔥 <br><div align = "center"><img src=https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif width = 70></div></p> 
-
-<br>
+# <p align="center">🔥💻Bienvenido al Github de AndreuSG💻🔥 <br></p> 
 
 ## Sobre mí
 
@@ -17,8 +15,7 @@ Aquí dejo un breve resumen de los campos en los que estoy enfocado y de las tec
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | :---: | :---: | :---: |
 | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) |  |  |
-
+| ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 
 <br>
 
