@@ -6,13 +6,11 @@
 
 ## Sobre mí
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+Soy un profesional comprometido con la cultura DevOps y el liderazgo técnico. Mi trayectoria une desarrollo de software, despliegue de infraestructuras cloud y coordinación de equipos para ofrecer soluciones digitales robustas, escalables y adaptadas a cada cliente.
 
-Hola, mi nombre es Andreu, tengo 24 años y soy un apasionado administrador de sistemas con un gran interés en el desarrollo y la programación, la ciberseguridad, y la combinación de ambas áreas que es DevOps. Actualmente, estoy perfeccionando mis habilidades en estos campos, formándome constantemente para estar al día con las últimas tecnologías y prácticas.
+Aporto experiencia técnica, visión estratégica y pasión por la innovación para ayudar a las empresas a optimizar procesos, escalar sistemas y acelerar su crecimiento digital.
 
-Me encanta colaborar en proyectos open source y contribuir a la comunidad tecnológica. En este perfil encontrarás una colección de proyectos en los que he trabajado a lo largo de mi trayectoria. Cada proyecto está documentado detalladamente para que puedas reutilizar el código fácilmente. Mi objetivo es compartir conocimientos y herramientas que puedan ayudar a otros profesionales y entusiastas de la tecnología.
-
-Aquí dejo un breve resumen de los campos en los que estoy enfocado y algunas de las tecnologias que domino:
+Aquí dejo un breve resumen de los campos en los que estoy enfocado y de las tecnologias que domino:
 
 <br>
 
