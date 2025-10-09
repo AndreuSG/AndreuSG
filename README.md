@@ -2,9 +2,29 @@
 
 ## Sobre mí
 
-Soy un profesional comprometido con la cultura DevOps y el liderazgo técnico. Mi trayectoria une desarrollo de software, despliegue de infraestructuras cloud y coordinación de equipos para ofrecer soluciones digitales robustas, escalables y adaptadas a cada cliente.
+DevOps / Infraestructura – CDMON
 
-Aporto experiencia técnica, visión estratégica y pasión por la innovación para ayudar a las empresas a optimizar procesos, escalar sistemas y acelerar su crecimiento digital.
+Expertise principal:
+
+- Creación, gestión, mantenimiento y orquestación de contenedores (Kubernetes, Docker, Podman)
+
+- Infraestructura como código (SaltStack, Ansible, Uyuni Server / SUSE Manager)
+
+- Desarrollo de aplicaciones web internas para la gestión y automatización de procesos de infraestructura (React, Angular, NestJS, NextJS, NodeJS, TS specialist)
+
+- Observabilidad y monitorización (Prometheus, Grafana, Loki, Zabbix)
+
+
+Otros roles que adopto:
+
+- Administración de clusters (Proxmox VE, Proxmox Backup Server, Ceph)
+
+- Administración de sistemas Linux y redes (SUSE, AlmaLinux, RockyLinux, Debian, Ubuntu, PowerDNS, LDAP)
+
+
+Especialidades extras:
+
+- Automatización de pipelines CI/CD (GitLab CI/CD, Jenkins y GitHub actions)
 
 Aquí dejo un breve resumen de los campos en los que estoy enfocado y de las tecnologias que domino:
 
@@ -12,10 +32,23 @@ Aquí dejo un breve resumen de los campos en los que estoy enfocado y de las tec
 
 #### DevOps 👨‍💻
 
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white) |
 | :---: | :---: | :---: |
-| ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![SaltStack](https://img.shields.io/badge/SaltStack-57BCAD?style=flat-square&logo=saltproject&logoColor=white) |
+| ![SUSE Manager / Uyuni](https://img.shields.io/badge/SUSE%20Manager%20%2F%20Uyuni-0C322C?style=flat-square&logo=suse&logoColor=white) | ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| ![Loki](https://img.shields.io/badge/Loki-4A5D75?style=flat-square&logo=grafana&logoColor=white) | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0033?style=flat-square&logo=zabbix&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
+
+<br>
+
+#### Sysadmin 🖥️
+
+| ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white) | ![Proxmox Backup Server](https://img.shields.io/badge/Proxmox%20Backup%20Server-E57000?style=flat-square&logo=proxmox&logoColor=white) | ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white) |
+| :---: | :---: | :---: |
+| ![SUSE Linux](https://img.shields.io/badge/SUSE-0C322C?style=flat-square&logo=suse&logoColor=white) | ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-212121?style=flat-square&logo=almalinux&logoColor=white) | ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white) |
+| ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![PowerDNS](https://img.shields.io/badge/PowerDNS-0064C8?style=flat-square&logo=powerdns&logoColor=white) |
+| ![LDAP](https://img.shields.io/badge/LDAP-4A4A4A?style=flat-square&logoColor=white) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+
 
 <br>
 
