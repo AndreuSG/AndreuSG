@@ -6,13 +6,11 @@ DevOps / Infraestructura – CDMON
 
 Expertise principal:
 
-- Creación, gestión, mantenimiento y orquestación de contenedores (Kubernetes, Docker, Podman)
+- Creación, gestión, mantenimiento y orquestación de contenedores (Kubernetes, Podman)
 
-- Infraestructura como código (SaltStack, Ansible, Uyuni Server / SUSE Manager)
+- Infraestructura como código (SaltStack, Ansible, Terraform)
 
-- Desarrollo de aplicaciones web internas para la gestión y automatización de procesos de infraestructura (React, Angular, NestJS, NextJS, NodeJS, TS specialist)
-
-- Observabilidad y monitorización (Prometheus, Grafana, Loki, Zabbix)
+- Observabilidad y monitorización (Zabbix, Prometheus, Grafana)
 
 
 Otros roles que adopto:
@@ -21,10 +19,13 @@ Otros roles que adopto:
 
 - Administración de sistemas Linux y redes (SUSE, AlmaLinux, RockyLinux, Debian, Ubuntu, PowerDNS, LDAP)
 
+- Gestión de repositorios y control de software (Uyuni server / Suse Manager) 
+
+- Automatización de pipelines CI/CD (GitLab CI/CD y GitHub actions)
 
 Especialidades extras:
 
-- Automatización de pipelines CI/CD (GitLab CI/CD, Jenkins y GitHub actions)
+- Desarrollo full stack
 
 Aquí dejo un breve resumen de los campos en los que estoy enfocado y de las tecnologias que domino:
 
