@@ -6,7 +6,11 @@ DevOps / Infraestructura – CDMON
 
 Expertise principal:
 
-- Creación, gestión, mantenimiento y orquestación de contenedores (Kubernetes, Podman)
+- Creación de clusters de kubernetes en infrastructura baremetal.
+
+- Orquestación de contenedores con kubernetes.
+
+- Container expert (podman)
 
 - Infraestructura como código (SaltStack, Ansible, Terraform)
 
@@ -15,7 +19,7 @@ Expertise principal:
 
 Otros roles que adopto:
 
-- Administración de clusters (Proxmox VE, Proxmox Backup Server, Ceph)
+- Creación y administración de clusters (Proxmox VE, Proxmox Backup Server, Ceph)
 
 - Administración de sistemas Linux y redes (SUSE, AlmaLinux, RockyLinux, Debian, Ubuntu, PowerDNS, LDAP)
 
